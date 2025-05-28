@@ -67,7 +67,7 @@ RegisterNumber: 212224230056
 
 **TRUTH TABLE**
 
-![EXP_11 TT](https://github.com/user-attachments/assets/206db26a-d75b-4080-b711-a1248dfc8c5b)
+![image](https://github.com/user-attachments/assets/2442554a-3365-4a4d-b318-e5e7c0afa039)
 
 **RESULTS**
 
