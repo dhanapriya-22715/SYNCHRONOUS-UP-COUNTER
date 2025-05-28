@@ -54,6 +54,8 @@ end
 endmodule
 ```
 Developed by: DHANAPPRIYA S
+
+
 RegisterNumber: 212224230056
 
 **RTL LOGIC UP COUNTER**
@@ -67,7 +69,9 @@ RegisterNumber: 212224230056
 
 **TRUTH TABLE**
 
-![image](https://github.com/user-attachments/assets/2442554a-3365-4a4d-b318-e5e7c0afa039)
+
+![image](https://github.com/user-attachments/assets/a010c34f-8b2c-4fad-92d7-47b07a338945)
+
 
 **RESULTS**
 
